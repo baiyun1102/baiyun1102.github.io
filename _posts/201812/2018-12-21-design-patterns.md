@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "设计模式"
+date:   2018-12-21 15:05:00
+
+categories: other
+tags: performance
+author: "choi"
+---
 
 <center>design-patterns 设计模式</center>
 
