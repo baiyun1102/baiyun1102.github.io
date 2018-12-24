@@ -14,8 +14,15 @@ author: "choi"
 2、针对接口编程，而不是针对实现编程。  
 3、多有组合，少用继承。  
 
-## 一、策略模式（Strategy）
+### 一、策略模式（Strategy）
 ![](https://raw.githubusercontent.com/baiyun1102/baiyun1102.github.io/master/assets/images/pictures/2018-12-21-design-patterns/Strategy.png)  
+
+### 二、观察者模式（Observer） 
+ ![](https://raw.githubusercontent.com/baiyun1102/baiyun1102.github.io/master/assets/images/pictures/2018-12-21-design-patterns/20181224181029observer.png)  
+ ![](../../assets/images/pictures/2018-12-21-design-patterns/20181224181029observer.png)
+
+
+
 
 
 
