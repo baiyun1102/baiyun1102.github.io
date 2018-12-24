@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "设计模式"
+title:  "设计模式(design-patterns)"
 date:   2018-12-21 15:05:00
 
 categories: other
 tags: performance
 author: "choi"
 ---
-
-<center>design-patterns 设计模式</center>
 
 ## *设计原则
 
