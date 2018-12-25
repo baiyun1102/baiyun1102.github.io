@@ -21,7 +21,7 @@ author: "choi"
 
 
 ### 一、策略模式（Strategy）
-![](https://raw.githubusercontent.com/baiyun1102/baiyun1102.github.io/master/assets/images/pictures/2018-12-21-design-patterns/Strategy.png)  
+![](https://raw.githubusercontent.com/baiyun1102/baiyun1102.github.io/master/assets/images/pictures/2018-12-21-design-patterns/strategy.png)  
 
 ### 二、观察者模式（Observer）   
  ![](../../assets/images/pictures/2018-12-21-design-patterns/20181224181029observer.png)  
