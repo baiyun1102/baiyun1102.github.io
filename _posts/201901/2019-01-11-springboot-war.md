@@ -15,6 +15,7 @@ author: "choi"
 
 - #### 2、移除内嵌的tomcat依赖。
    有两种方法。如下：
+   
    第一种:在starter-web里排除tomcat。用这种方法需要增加servlet-api.jar的引用。
    ![](../../assets/images/pictures/2019-01-11-springboot-war/2.1.1.png)  
    
