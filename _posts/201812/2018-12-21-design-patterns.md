@@ -27,6 +27,13 @@ author: "choi"
  ![](../../assets/images/pictures/2018-12-21-design-patterns/20181224181029observer.png)  
  
 ### 三、装饰者模式（Decorator）   
+ ![](../../assets/images/pictures/2018-12-21-design-patterns/20181225143016decorator.png)  
+
+ **装饰者的应用：**
+ ![](../../assets/images/pictures/2018-12-21-design-patterns/20181225174710decorator2.png)  
+ ![](../../assets/images/pictures/2018-12-21-design-patterns/20181225174751decorator3.png)  
+
+### 四、工厂模式（Factory）   
  ![](../../assets/images/pictures/2018-12-21-design-patterns/20181225143016decorator.png)
 
 
