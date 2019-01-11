@@ -25,7 +25,7 @@ author: "choi"
 - #### 3、修改启动类，继承SpringBootServletInitializer，实现configure方法。实际上是创建了一个DispatcherServlet。
    ![](../../assets/images/pictures/2019-01-11-springboot-war/3.1.png)  
 
-- #### 4、为了防止应用因上下文导致的项目访问资源加载不到的问题，建议在pom.xml文件中`&lt;build&gt;`` &lt;/build&gt; `标签中添加`&lt;finalName&gt;``&lt;/finalName&gt;`标签。
+- #### 4、为了防止应用因上下文导致的项目访问资源加载不到的问题，建议在pom.xml文件中`<build/>``</build>`标签中添加`<finalName>``</finalName>`标签。
    ![](../../assets/images/pictures/2019-01-11-springboot-war/4.1.png)  
 
 - #### 5、打包（执行maven package）
