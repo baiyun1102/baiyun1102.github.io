@@ -4,7 +4,7 @@ title:  "SrpingBoot打包成war包的步骤"
 date:   2018-01-11 10:05:00
 
 categories: other
-tags: performance
+tags: springboot
 author: "choi"
 ---
 
