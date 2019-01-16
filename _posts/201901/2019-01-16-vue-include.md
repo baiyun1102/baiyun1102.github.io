@@ -3,7 +3,7 @@ layout: post
 title:  "如何在vue模版里面局部引用cdn外部远程连接，比如js，css"
 date:   2019-01-16 17:05:00
 
-categories: other
+categories: javascript
 tags: vue
 author: "choi"
 ---
