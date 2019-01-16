@@ -5,7 +5,8 @@
     {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
     {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
     {% if month != nmonth %}
-      <li><a href="/archives#{{ post.date | date: '%m%Y' }}" class="dk">{{ post.date | date: '%B %Y' }}</a></li>
+      <!--<li><a href="/archives#{{ post.date | date: '%m%Y' }}" class="dk">{{ post.date | date: '%B %Y' }}</a></li>-->
+      <li><a href="/archives#{{ post.date | date: '%m%Y' }}" class="dk">{{ post.date | date: '%Y年%m月' }}</a></li>
       <li class="line"></li>
     {% endif %}
   {% endfor %}
