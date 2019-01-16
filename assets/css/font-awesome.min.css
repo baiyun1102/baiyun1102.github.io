@@ -1692,25 +1692,25 @@
     content: "\f196"
 }
 
-.fa-javascript-alt:before {
-    content: "JS"
-}
+/*.fa-javascript-alt:before {*/
+    /*content: "JS"*/
+/*}*/
 
-.fa-javascript-square:before {
-    content: "JS"
-}
+/*.fa-javascript-square:before {*/
+    /*content: "JS"*/
+/*}*/
 
 .fa-javascript:before {
     content: "JS"
 }
 
-.fa-vue-alt:before {
-    content: "V"
-}
+/*.fa-vue-alt:before {*/
+    /*content: "V"*/
+/*}*/
 
-.fa-vue-square:before {
-    content: "V"
-}
+/*.fa-vue-square:before {*/
+    /*content: "V"*/
+/*}*/
 .fa-vue:before {
     content: "V"
 }
