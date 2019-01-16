@@ -26,7 +26,8 @@ author: "choi"
 </html>
 ```
 但是又不想影响其他页面，只想在本页显示。所以网上搜了下。我最终选择了第一种。
------
+---
+
 原文链接：[https://blog.yourtion.com/vue-require-remote-js.html](https://blog.yourtion.com/vue-require-remote-js.html)
 
 ### 问题
