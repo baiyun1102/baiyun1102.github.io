@@ -17,6 +17,8 @@ author: "choi"
 
 - 1、先用locale命令查看，发现配置的字符集不对
 - 2、修改用户变量：vi ~/.bash_profile 填下如下内容：
+
+```
 LANG=zh_CN.UTF-8
 LC_CTYPE="zh_CN.UTF-8"
 LC_NUMERIC="zh_CN.UTF-8"
@@ -31,6 +33,7 @@ LC_TELEPHONE="zh_CN.UTF-8"
 LC_MEASUREMENT="zh_CN.UTF-8"
 LC_IDENTIFICATION="zh_CN.UTF-8"
 LC_ALL=
+```
 
 ![](../../assets/images/pictures/2019-03-14-SecureCRT/20190314133937.png)
 
